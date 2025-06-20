@@ -11,3 +11,6 @@ h2{
     font-size:1.5rem;
     color: palevioletred;
 }
+body{
+    background-image: url('bg.png');
+}
