@@ -5,7 +5,9 @@ html{
 h1{
     font-size:2rem;
     text-align: center;    
+    color: pink;
 }
 h2{
     font-size:1.5rem;
+    color: palevioletred;
 }
